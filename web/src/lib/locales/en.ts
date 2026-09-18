@@ -897,7 +897,7 @@ export default {
   'settings.display.sessionHeader.worktree': 'Worktree branch',
   'settings.display.links': 'Links',
   'settings.display.openExternalLinksInNewTab': 'Open external links in a new tab',
-  'settings.display.openExternalLinksInNewTab.desc': 'Off (default) keeps today’s behaviour: links open without an explicit target, which an installed PWA shows as an in-app overlay. On always opens external links in a separate browser tab.',
+  'settings.display.openExternalLinksInNewTab.desc': 'Off (default) keeps today’s behaviour. On always opens external links in a separate browser tab, even when HAPI is installed as an app.',
   'session.header.createdAt': 'Created',
   'session.header.updatedAt': 'Updated',
   'settings.chat.title': 'Chat',
