@@ -897,7 +897,7 @@ export default {
   'settings.display.sessionHeader.worktree': 'Worktree branch',
   'settings.display.links': 'Links',
   'settings.display.openExternalLinksInNewTab': 'Open external links in a new tab',
-  'settings.display.openExternalLinksInNewTab.desc': 'Off (default) keeps today’s behaviour. On always opens external links in a separate browser tab, even when HAPI is installed as an app.',
+  'settings.display.openExternalLinksInNewTab.desc': 'Off (default) keeps today’s behaviour. On opens external links in a separate browser tab instead.',
   'session.header.createdAt': 'Created',
   'session.header.updatedAt': 'Updated',
   'settings.chat.title': 'Chat',

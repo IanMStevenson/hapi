@@ -895,7 +895,7 @@ export default {
   'settings.display.sessionHeader.worktree': '工作树分支',
   'settings.display.links': '链接',
   'settings.display.openExternalLinksInNewTab': '在新标签页中打开外部链接',
-  'settings.display.openExternalLinksInNewTab.desc': '关闭(默认)保留当前行为。开启后外部链接始终在单独的浏览器标签页中打开，即使 HAPI 已作为应用安装。',
+  'settings.display.openExternalLinksInNewTab.desc': '关闭(默认)保留当前行为。开启后外部链接会在单独的浏览器标签页中打开。',
   'session.header.createdAt': '创建',
   'session.header.updatedAt': '更新',
   'settings.chat.title': '聊天',
